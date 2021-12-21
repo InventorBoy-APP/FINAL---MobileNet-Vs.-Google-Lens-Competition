@@ -1,0 +1,48 @@
+body{
+    background-color:cadetblue;
+    text-align:center;
+}
+
+
+.image_and_result1{
+background-color:ghostwhite;
+text-align:center;
+border:6px;
+border-radius: 20px;
+padding:40px;
+border-width: 8px;
+border-style:dotted;
+border-color:indianred;
+width:800px;
+}
+
+
+.overall{
+    font-style: italic;
+    font-weight:bolder;
+    border-color:indianred;
+}
+
+
+.shaping{
+    border-radius: 700px;
+    border-color:lightskyblue;
+    border-width:20px;
+}
+
+
+.header{
+    font-family: 'Indie Flower', cursive;
+    background-color:darkturquoise;
+    border-radius:70px;
+    border-style:ridge;
+    border-color:coral;
+    font-size:44px;
+}
+
+
+.output{
+    background-color:mediumaquamarine;
+    height:500px;
+    text-decoration-line:underline;
+}
